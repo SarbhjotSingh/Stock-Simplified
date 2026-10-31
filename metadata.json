@@ -1,0 +1,6 @@
+{
+  "name": "Stock Simplified",
+  "description": "Hybrid educational platform and advanced paper-trading simulator focusing on stock and Forex markets with interactive guided tours, custom TradingView-style charting, live economic calendar, and AI market reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
